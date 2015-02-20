@@ -1,2 +1,2 @@
 # datasciencecoursera
-This for The Data Scientist’s Toolbox homework assignment 2.
+This for The Data Scientist’s Toolbox course.
